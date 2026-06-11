@@ -1,17 +1,17 @@
 date,team,opponent,xg_estimated
-17,Japan,Switzerland,1.22
-17,Switzerland,Japan,1.04
-18,France,Turkey,1.65
-18,Turkey,France,1.0
-19,Germany,Morocco,1.06
-19,Morocco,Germany,1.25
-20,Croatia,Senegal,1.2
-20,Senegal,Croatia,1.17
-21,England,Spain,1.08
-21,Spain,England,1.18
-22,Algeria,United States,1.19
-22,United States,Algeria,1.42
-23,Argentina,Belgium,1.55
-23,Belgium,Argentina,0.97
-24,Colombia,Iran,1.35
-24,Iran,Colombia,0.92
+17,Netherlands,Switzerland,1.61
+17,Switzerland,Netherlands,1.08
+18,France,Germany,1.55
+18,Germany,France,1.2
+19,Morocco,Norway,1.29
+19,Norway,Morocco,0.76
+20,Ivory Coast,Senegal,0.64
+20,Senegal,Ivory Coast,1.34
+21,Croatia,Spain,1.0
+21,Spain,Croatia,1.61
+22,Belgium,Turkey,1.54
+22,Turkey,Belgium,1.3
+23,Argentina,United States,1.78
+23,United States,Argentina,0.92
+24,Iran,Portugal,0.85
+24,Portugal,Iran,1.57
