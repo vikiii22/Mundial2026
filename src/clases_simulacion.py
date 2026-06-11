@@ -731,11 +731,14 @@ class Knockouts:
 
 
 class Tournament:
-    def __init__(self, name):
+    def __init__(self, name, model=None):
         self.group_orders: list[list[Team]] = []
         self.thirds: list[Team] = []
         self.thirds_letters = ""
-        self.model = train_model(name=name)
+        if model is None:
+            self.model = train_model(name=name)
+        else:
+            self.model = model
         self.match_history = []
         self.name = name
         self.GROUPS = self.create_groups()
@@ -881,12 +884,17 @@ class Tournament:
         self.knockouts.simulate_knockouts()
         self.knockouts.print_winner()
     
+    @property
+    def winner(self):
+        return self.knockouts.winners.get("2", None)
+
     def export_results(self):
         results_knockouts = self.knockouts.export_results()
         self.match_history.extend(results_knockouts)
 
         df_export = pd.DataFrame(self.match_history, columns=["Team_1", "Score_1", "Score_2", "Team_2"])
         df_export.to_csv(f"results/predictions_{self.name}.csv", index=False)
+        return df_export
 
     def simulate_tournament(self):
         self.simulate_groups()

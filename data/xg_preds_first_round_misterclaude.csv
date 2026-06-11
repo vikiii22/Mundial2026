@@ -1,33 +1,33 @@
 date,team,opponent,xg_estimated
-1,Canada,Czech Republic,1.47
-1,Czech Republic,Canada,0.83
-2,Brazil,Netherlands,1.31
-2,Netherlands,Brazil,1.26
-3,Australia,Germany,0.91
-3,Germany,Australia,1.54
-4,Japan,Morocco,0.85
-4,Morocco,Japan,1.15
-5,Ecuador,Senegal,0.9
-5,Senegal,Ecuador,0.91
-6,France,Tunisia,1.81
-6,Tunisia,France,0.66
-7,Mexico,Scotland,1.49
-7,Scotland,Mexico,0.77
-8,England,Norway,1.44
-8,Norway,England,0.73
-9,Algeria,Belgium,1.05
-9,Belgium,Algeria,1.42
+1,South Korea,Switzerland,1.05
+1,Switzerland,South Korea,1.32
+2,Morocco,Netherlands,1.16
+2,Netherlands,Morocco,1.08
+3,Ecuador,Turkey,1.05
+3,Turkey,Ecuador,0.95
+4,Brazil,Japan,1.3
+4,Japan,Brazil,0.97
+5,Germany,Norway,1.45
+5,Norway,Germany,1.03
+6,France,Sweden,1.93
+6,Sweden,France,0.77
+7,Mexico,Senegal,1.15
+7,Senegal,Mexico,1.05
+8,Croatia,Uzbekistan,1.35
+8,Uzbekistan,Croatia,0.74
+9,Algeria,Egypt,0.99
+9,Egypt,Algeria,0.95
 10,Bosnia and Herzegovina,United States,0.84
 10,United States,Bosnia and Herzegovina,1.91
 11,Austria,Spain,0.75
 11,Spain,Austria,1.64
-12,Colombia,Croatia,1.33
-12,Croatia,Colombia,1.28
-13,Iran,Switzerland,1.06
-13,Switzerland,Iran,1.21
-14,Egypt,Turkey,0.97
-14,Turkey,Egypt,1.22
+12,England,Portugal,1.26
+12,Portugal,England,1.07
+13,Canada,Iran,1.18
+13,Iran,Canada,0.97
+14,Belgium,Paraguay,1.42
+14,Paraguay,Belgium,0.81
 15,Argentina,Uruguay,1.36
 15,Uruguay,Argentina,0.73
-16,Ivory Coast,Portugal,0.62
-16,Portugal,Ivory Coast,1.6
+16,Colombia,Panama,1.49
+16,Panama,Colombia,0.78

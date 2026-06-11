@@ -249,6 +249,10 @@ def train_model(name):
         df_jornada.to_csv(f"data/ai_models/xg_preds_{nombre_jornada}_{name}_complete.csv", index=False)
         print(f"Predicciones para {nombre_jornada} guardadas con exito.")
 
+    # Guardamos el modelo entrenado a disco
+    model.save_model(f"data/ai_models/xg_model_{name}.json")
+    print(f"Modelo guardado en data/ai_models/xg_model_{name}.json")
+
     print("\n¡Simulación completa! Revisa la carpeta 'data'.")
 
     return model

@@ -1,32 +1,32 @@
 date,team,opponent,xg_estimated
-1,Canada,Czech Republic,1.47
-1,Czech Republic,Canada,0.83
+1,Czech Republic,Switzerland,0.87
+1,Switzerland,Czech Republic,1.41
 2,Brazil,Japan,1.3
 2,Japan,Brazil,0.97
-3,Germany,Haiti,1.99
-3,Haiti,Germany,0.65
+3,Ecuador,Scotland,1.19
+3,Scotland,Ecuador,0.7
 4,Morocco,Netherlands,1.16
 4,Netherlands,Morocco,1.08
-5,Ecuador,Norway,1.02
-5,Norway,Ecuador,0.85
-6,Egypt,France,0.72
-6,France,Egypt,1.53
-7,Ivory Coast,Mexico,0.65
-7,Mexico,Ivory Coast,1.71
-8,England,Senegal,1.34
-8,Senegal,England,0.84
-9,Belgium,South Korea,1.6
-9,South Korea,Belgium,1.04
-10,Bosnia and Herzegovina,Turkey,0.77
-10,Turkey,Bosnia and Herzegovina,1.78
-11,Austria,Spain,0.75
-11,Spain,Austria,1.64
+5,Germany,Senegal,1.33
+5,Senegal,Germany,1.13
+6,France,United States,1.86
+6,United States,France,1.02
+7,Mexico,Norway,1.31
+7,Norway,Mexico,0.94
+8,England,Uzbekistan,1.54
+8,Uzbekistan,England,0.55
+9,Austria,Belgium,1.14
+9,Belgium,Austria,1.44
+10,Bosnia and Herzegovina,Paraguay,0.78
+10,Paraguay,Bosnia and Herzegovina,1.36
+11,Algeria,Spain,0.71
+11,Spain,Algeria,1.58
 12,Colombia,Croatia,1.33
 12,Croatia,Colombia,1.28
-13,Algeria,Switzerland,1.05
-13,Switzerland,Algeria,1.18
-14,Iran,United States,1.17
-14,United States,Iran,1.4
+13,Canada,Egypt,1.17
+13,Egypt,Canada,0.92
+14,Iran,Turkey,1.07
+14,Turkey,Iran,1.26
 15,Argentina,Uruguay,1.36
 15,Uruguay,Argentina,0.73
 16,Panama,Portugal,0.73
