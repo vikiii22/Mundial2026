@@ -129,12 +129,17 @@ def render_bracket_html(knockouts):
         for i in range(n):
             if ri == 0:
                 pos.append(i * (MH + G))
-            else:
+            elif ri < 4:
                 p = off - counts[ri - 1]
                 t0, t1 = pos[p + 2 * i], pos[p + 2 * i + 1] + MH
                 pos.append((t0 + t1) / 2 - MH / 2)
+            else:
+                # Final round: 2 matches (final + 3rd place), center between the 2 SF
+                p = off - counts[ri - 1]
+                center = (pos[p] + pos[p + 1] + MH) / 2
+                pos.append(center - (MH + G) / 2 if i == 0 else center + (MH + G) / 2 - MH / 2)
 
-    totalH = pos[30] + MH + 30
+    totalH = max(pos[30], pos[31]) + MH + 30
     LH = 28
     html = f'<div style="display:flex;gap:4px;min-height:{totalH + LH}px;padding:0 2px">'
 
