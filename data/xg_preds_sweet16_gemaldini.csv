@@ -1,0 +1,17 @@
+date,team,opponent,xg_estimated
+17,Canada,Morocco,0.91
+17,Morocco,Canada,1.28
+18,Germany,Japan,1.29
+18,Japan,Germany,1.13
+19,Brazil,Senegal,1.35
+19,Senegal,Brazil,0.97
+20,England,Scotland,1.72
+20,Scotland,England,0.63
+21,Colombia,Spain,0.96
+21,Spain,Colombia,1.5
+22,Argentina,Ecuador,1.13
+22,Ecuador,Argentina,0.66
+23,Australia,Austria,1.0
+23,Austria,Australia,1.1
+24,Portugal,Switzerland,1.58
+24,Switzerland,Portugal,1.02
