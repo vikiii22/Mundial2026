@@ -1,6 +1,23 @@
 [
   {
     "type": "tournament",
+    "date": "11/06 16:45",
+    "winner": "Spain"
+  },
+  {
+    "type": "match",
+    "date": "11/06 16:40",
+    "team_a": "Brazil",
+    "team_b": "Spain",
+    "xg_a": 1.15,
+    "xg_b": 1.3,
+    "win1_pct": 31.6,
+    "draw_pct": 25.4,
+    "win2_pct": 43.0,
+    "simulations": 500
+  },
+  {
+    "type": "tournament",
     "date": "11/06 16:33",
     "winner": "Netherlands"
   },

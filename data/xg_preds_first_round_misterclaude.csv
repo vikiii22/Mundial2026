@@ -1,33 +1,33 @@
 date,team,opponent,xg_estimated
-1,South Korea,Switzerland,1.05
-1,Switzerland,South Korea,1.32
-2,Morocco,Tunisia,1.52
-2,Tunisia,Morocco,0.59
-3,Germany,Paraguay,1.48
-3,Paraguay,Germany,0.77
+1,South Africa,Switzerland,0.69
+1,Switzerland,South Africa,1.43
+2,Japan,Morocco,0.85
+2,Morocco,Japan,1.15
+3,Ecuador,United States,1.16
+3,United States,Ecuador,1.09
 4,Brazil,Netherlands,1.31
 4,Netherlands,Brazil,1.26
-5,Ecuador,Norway,1.02
-5,Norway,Ecuador,0.85
-6,Cape Verde,France,0.57
-6,France,Cape Verde,2.01
+5,Germany,Senegal,1.33
+5,Senegal,Germany,1.13
+6,France,Saudi Arabia,2.05
+6,Saudi Arabia,France,0.45
 7,Ivory Coast,Mexico,0.65
 7,Mexico,Ivory Coast,1.71
-8,England,Senegal,1.34
-8,Senegal,England,0.84
-9,Belgium,Czech Republic,1.71
-9,Czech Republic,Belgium,0.86
-10,Algeria,Turkey,1.07
-10,Turkey,Algeria,1.21
+8,England,Portugal,1.26
+8,Portugal,England,1.07
+9,Iran,South Korea,1.09
+9,South Korea,Iran,1.03
+10,Australia,Norway,0.97
+10,Norway,Australia,1.11
 11,Austria,Spain,0.75
 11,Spain,Austria,1.64
-12,Colombia,Croatia,1.33
-12,Croatia,Colombia,1.28
-13,Canada,Iran,1.18
-13,Iran,Canada,0.97
-14,Egypt,United States,1.08
-14,United States,Egypt,1.37
+12,Panama,Uzbekistan,0.96
+12,Uzbekistan,Panama,0.91
+13,Canada,Jordan,1.7
+13,Jordan,Canada,0.68
+14,Belgium,Turkey,1.54
+14,Turkey,Belgium,1.3
 15,Argentina,Uruguay,1.36
 15,Uruguay,Argentina,0.73
-16,Panama,Portugal,0.73
-16,Portugal,Panama,1.74
+16,Colombia,Croatia,1.33
+16,Croatia,Colombia,1.28
